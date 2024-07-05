@@ -27,95 +27,6 @@ tolerance to B and T cells. Due to this loss of tolerance, T cells become hypera
 turn causes the production of inflammatory cytokines. B cells also become hyperactive, which 
 results in the massive production of autoantibodies and the development of immune response
 
-Most common symptoms: 
-
-• Joint pain, stiffness in the morning, and swelling (mostly hands) 
-
-• Skin rash after exposure to the sun (butterfly rash) 
-
-• Chest pain with deep breathing (pleurisy or pericarditis) 
-
-• Leg swelling due to lupus nephritis
-
-Less common symptoms: 
-• Muscle weakness, 
-
-• Low blood count (anaemia), bruising (low platelets), blood clots Seizures, psychosis, 
-stroke
-
-Lupus nephritis (LN) is the most important organ involvement in SLE.Up to 30-50% of lupus 
-patients may develop nephritis (usually within 3 years from diagnosis). Inflammation in the 
-kidney causes protein leakage in the urine (proteinuria), leg swelling (edema due to fluid 
-retention), and worse kidney function (measured by serum creatinine test) Lupus nephritis 
-tends to come back even after it gets better Repeated flares cause scarring in the kidney (not 
-reversible) Up to 20-30% of patients with Lupus Nephritis may develop renal failure and will 
-require a kidney transplant or dialysis(haemodialysis or peritoneal dialysis) Only rarely it can 
-happen again after kidney transplantation
-
-Diagnosis of Lupus Nephritis symptoms
-
-• New/worse high blood pressure (hypertension) 
-
-• Edema of feet and/or around eyes. 
-
-• Polyuria ornocturia 
-
-• Frothy urine (proteinuria); Urine discolouration (haematuria) 
-
-• It may have no symptoms(Urinalysis is critical) 
-
-
-Blood tests: 
-
-• Serum creatinine (normally <1 in the average woman; it may be higher in muscular 
-men as it reflects muscle mass). 
-• Albumin (normal>3.5) which may be decreased due to loss of protein in the urine. 
-
-• Electrolytes: sodium, potassium, bicarbonate, fasting lipids (often high), glucose, 
-vitamin D 
-
-• Estimated Glomerular Filtration Rate (eGFR). Calculated by using creatinine, age, 
-and gender. Normally 90-120 ml/min/1.73m2 
-
-• Complete blood count (CBC) to check for anaemia or low counts of white blood cells 
-and platelets 
-
-• Tests for exposure to Tuberculosis , hepatitis B/C, or HIV 
-
-Urine tests: 
-
-• Urinalysis. Normally 0-trace protein, no red and white blood cells (<5 RBC, <5 
-WBC) 
-
-• 24-h urine protein (we also measure creatinine to assess whether the collection was 
-performed properly): normally <150 mg/24h. In Lupus by definition>500 mg/24 hour. 
-If the urine protein is >3,500 mg/24 hours, we call this nephrotic range proteinuria 
-
-• Urine protein/creatinine ratio. Either spot or 24-hour urine collection. 
-Renal Ultrasound: to exclude urine flow obstruction, scarring of the kidney or other causes 
-of kidney disease 
-
-Kidney Biopsy :
-
-• It helps confirm the diagnosis of lupus nephritis and exclude other causes of kidney 
-disease 
-
-• It helps establish the class of lupus nephritis as management is different 
-
-• It helps assess the amount of activity/inflammation (reversible) versus the amount of 
-chronicity/scarring (irreversible): Activity index (Al) and Chronicity index (CI) 
-
-Risks: 
-
-• Kidney biopsy is a low-risk procedure. Patients can go home the same day if no 
-complications 
-
-• Under ultrasound or CT scan imaging, a needle is inserted into the lower part of one 
-kidney and a tiny tube-like piece is taken for microscopic analysis 
-
-• Blood pressure should be well controlled and anticoagulants held to minimize the 
-chance of bleeding around the kidney.
-
 
 Classification of Lupus Nephritis :
 
@@ -147,19 +58,6 @@ affecting kidney function in the beginning.
 edema, and high cholesterol, and may cause a blood clot. This needs to be treated 
 more aggressively. 
 
-Population:
-
-• Lupus is much more common in women than in men and most often strikes during the 
-childbearing years. Nine out of 10 people who have lupus are women. 
-
-• Lupus is also more common in people of African or Asian background. African 
-Americans and Asian Americans are about 2 to 3 times more likely to develop lupus 
-than Caucasians. In the United States, 1 out of every 250 African American women 
-will develop lupus.
-
-• SLE (systematic lupus erythematosus) is a disease of young or middle-aged women. 
-About 1 per 1,000-5,000. The ratio of females to males affected is 9:1 
-• The disease is more frequent and often more severe in non-Caucasians.
 
 DATA ACQUISTION
 
